@@ -65,7 +65,7 @@ trello-api-automation/
 1.  **Projeyi Klonlayın:** Projenin kaynak kodunu aşağıdaki komutla yerel bilgisayarınıza klonlayın:
 
     ```bash
-    git clone [SİZİN_GITHUB_URL'İNİZ]
+    git clone https://github.com/ysnblgn/trello-api-automation.git
     ```
 
 2.  **IntelliJ'de Açın:** IntelliJ IDEA'da **File > Open...** yolunu izleyerek, yeni klonladığınız proje klasörünü seçin. IntelliJ, projeyi otomatik olarak bir Maven projesi olarak tanıyacak ve gerekli tüm bağımlılıkları indirecektir.
