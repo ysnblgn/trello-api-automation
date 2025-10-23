@@ -14,8 +14,6 @@
 /surefire-reports/
 /test-output/
 
-/src/test/resources/config.properties
-
 .DS_Store
 
 Thumbs.db
